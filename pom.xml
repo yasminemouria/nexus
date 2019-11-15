@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.esprit</groupId>
 	<artifactId>maven-web</artifactId>
-	<version>2.0</version>
+	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>maven-web</name>
 	<description>maven-web</description>
